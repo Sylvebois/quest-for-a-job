@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: #1b1b1b;
+  box-shadow: 0 6px 30px rgba(255, 255, 255, .6);
+  border: 3px solid #1b1b1b
+}
